@@ -1,4 +1,3 @@
-<img width="2967" height="1484" alt="glitch" src="https://github.com/user-attachments/assets/dc46df80-fd42-45f3-b7e7-079136c0e713" />
 # Grimoire
 
 **Offensive knowledge, offline. One search box for every playbook.**
