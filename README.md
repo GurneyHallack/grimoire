@@ -2,14 +2,6 @@
 
 **Offensive knowledge, offline. One search box for every playbook.**
 
-```
-   ____      _                 _
-  / ___|_ __(_)_ __ ___   ___ (_)_ __ ___
- | |  _| '__| | '_ ` _ \ / _ \| | '__/ _ \
- | |_| | |  | | | | | | | (_) | | | |  __/
-  \____|_|  |_|_| |_| |_|\___/|_|_|  \___|
-```
-
 > by [Penthertz](https://penthertz.com) - part of the RF-Swift toolkit
 
 Grimoire clones a curated set of security knowledge bases, indexes all of their
